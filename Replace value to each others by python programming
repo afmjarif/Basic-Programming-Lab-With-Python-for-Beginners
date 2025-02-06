@@ -1,0 +1,10 @@
+#Replace value to each other.
+
+n1 = 15   # first value
+n2 = 20   # secound value
+x = 0     # empty location for exchange values
+x = n1    # first value in empty location
+n1 = n2   # second value in first location
+print(n1) # print exchanged first value
+n2 = x    # here empty location get first value, that means x give first value to n2.
+print(n2) # # print exchanged second value.
