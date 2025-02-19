@@ -1,0 +1,6 @@
+x=int(input("enter first value:"))                                 #input first value for the sum
+y=int(input("emter second value:"))                                #input second value for the sum
+if x>y:                                                            #if/else condition for the sum
+    print("X=", x ,"Y=", y ," X is Greater & Y is Smaller")        #if X>y condition is true ,then print the value
+else:                                                              #if/else condition for the sum
+    print("X=", x ,"Y=", y ," Y is Greater & X is Smaller ")       #if x>y contion is false ,then print the value
