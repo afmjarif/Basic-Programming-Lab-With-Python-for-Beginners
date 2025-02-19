@@ -1,5 +1,9 @@
 # Welcome to My Python Programming Projects! 👋
-<img src="python_repo.webp" alt="Python Repository" width="600">
+
+<p align="center">
+ 
+   <img height="500" src="https://images.pexels.com/photos/360591/pexels-photo-360591.jpeg?auto=compress&cs=tinysrgb&w=600"/>
+</p>
 
 
 
@@ -23,8 +27,6 @@ Hello! I'm AFM JARIF, a passionate Python developer with a keen interest in prob
 Here are some of the projects you'll find in this repository:
 
 ### 1. **[Basic-Programming-Lab-With-Python-for-Beginners]**
-   - **Description**: A short description of what the project does.
-   - **Tech Stack**: Python, Libraries/Tools used.
    - **Installation**: How to set it up locally:
      ```bash
      git clone https://github.com/afmjarif/Basic-Programming-Lab-With-Python-for-Beginners.git
@@ -60,4 +62,4 @@ Here are some steps to get started:
 1. Fork this repository.
 2. Create a new branch (`git checkout -b feature-branch`).
 3. Make changes and commit (`git commit -m 'Add new feature'`).
-4. Push to the branch (`git push origin feature-bran
+4. Push to the branch (`git push origin feature-branch
