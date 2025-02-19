@@ -1,0 +1,10 @@
+#code                                       #details
+
+sum = 0                                      #initial value (0)
+for i in range (0, 5):                       # for loop for the program
+    n = input("Input the next number : ")    #taking values for the sum
+    n = int(n)                               #filtering input values
+    sum = sum + n                            #calculate the sum
+print("Total_Sum = ", sum)                   #printout the sum result
+avg = sum/5                                  #Average = Sum of Values/ Number of values
+print("Average = ", avg)                     #printout the average
