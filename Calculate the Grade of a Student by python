@@ -1,0 +1,18 @@
+#code                                       #details
+
+marks =int( input("Enter your mark : "))    #enter your mark 
+
+if marks >= 80:                             #if your input mark 80 more 
+    print("Grade : A+")                     #then your grade A+
+elif (marks >= 70) and (marks < 80):        #if your input mark 79-70 
+    print("Grade : A")                      #then your grade A
+elif (marks >= 60) and (marks < 70):        #if your input mark 69-60
+    print("Grade : A-")                     #then your grade A-
+elif (marks >= 50) and (marks < 60):        #if your input mark 59-50
+    print("Grade : B")                      #then your grade B
+elif (marks >= 40) and (marks < 50):        #if your input mark 49-40
+    print("Grade : C")                      #then your grade C
+elif (marks >= 33) and (marks < 40):        #if your input mark 39-33
+    print("Grade : D")                      #then your grade D
+else:                                       #if your input mark 32 or less
+    print(" Grade : F")                     #then your grade F
