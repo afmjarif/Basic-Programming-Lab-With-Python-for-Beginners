@@ -1,0 +1,15 @@
+lst=[]
+x=1
+while x!= 0:
+    x=int(input("enter a number:"))
+    if x!= 0:
+        lst.append(x)
+print(lst)
+
+
+mx = lst[0]
+for i in range(1,len(lst)):
+    if lst[i] > mx:
+        mx =lst[i]
+
+print("The maximum number is:", mx)
