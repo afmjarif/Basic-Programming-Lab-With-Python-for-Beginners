@@ -2,7 +2,7 @@
 
 <p align="center">
  
-   <img height="500" src="https://images.pexels.com/photos/360591/pexels-photo-360591.jpeg?auto=compress&cs=tinysrgb&w=600"/>
+   <img height="700" src="https://images.pexels.com/photos/360591/pexels-photo-360591.jpeg?auto=compress&cs=tinysrgb&w=600"/>
 </p>
 
 
