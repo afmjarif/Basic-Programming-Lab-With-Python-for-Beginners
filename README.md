@@ -1,4 +1,7 @@
 # Welcome to My Python Programming Projects! 👋
+<img src="python_repo.webp" alt="Python Repository" width="600">
+
+
 
 Welcome to my personal repository showcasing my Python programming skills. Here, you will find a variety of Python projects ranging from beginner to advanced levels. These projects cover a wide range of topics, including algorithms, data structures, automation scripts, and more. Each project is designed to solve a specific problem or demonstrate a particular concept in Python.
 
