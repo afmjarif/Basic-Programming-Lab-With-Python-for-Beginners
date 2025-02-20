@@ -1,5 +1,5 @@
 #code                                       #details
-
+ 
 sum = 0                                      #initial value (0)
 for i in range (0, 5):                       # for loop for the program
     n = input("Input the next number : ")    #taking values for the sum
