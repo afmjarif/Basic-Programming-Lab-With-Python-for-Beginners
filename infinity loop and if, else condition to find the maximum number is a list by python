@@ -1,15 +1,15 @@
-lst=[]
-x=1
-while x!= 0:
-    x=int(input("enter a number:"))
-    if x!= 0:
-        lst.append(x)
-print(lst)
+lst=[]                                         # Take a empty list to save the input values.
+x=1                                            # we keep x=1 for the program
+while x!= 0:                                   # while loop for continue the program .When the loop get a input value 0 ,than the loop is end. 
+    x=int(input("enter a number:"))            # Taking a integer value for this program
+    if x!= 0:                                  # we know x=1, if we got x=0, than the loop is close
+        lst.append(x)                          # append means add the input value x in the empty list.
+print(lst)                                     # print the list for showing the input values.
 
 
-mx = lst[0]
-for i in range(1,len(lst)):
-    if lst[i] > mx:
-        mx =lst[i]
+mx = lst[0]                                    # we take a maximum value in a list[0]
+for i in range(1,len(lst)):                    # for loop to check input values one by one.
+    if lst[i] > mx:                            # if any value is the maximum value 
+        mx =lst[i]                             # than the maximum value in a list[i] .
 
-print("The maximum number is:", mx)
+print("The maximum number is:", mx)            # print the maximum number.mx
