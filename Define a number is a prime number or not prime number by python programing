@@ -1,0 +1,11 @@
+n = int(input("enter a number:"))           #simply input and number to define
+
+isprime=1                                   #we keep isprime=1 
+for i in range(2,n):                        #here we use a for loop to continue this program, this loop continue 2 to n.
+    x = n%i                                 #input number n is dividing by i
+    if x ==0:                               #if n is divided by i, than x=0
+        isprime=0                           # so we change the value of isprime=0
+if isprime==0:                              #if actually isprime=0    
+    print(n,"is not a prime number")        #than this number is not a prime number
+else:                                       #otherwise 
+    print(n,"is a prime number")            # the number is a prime number
