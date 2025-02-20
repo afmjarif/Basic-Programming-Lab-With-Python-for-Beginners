@@ -16,3 +16,4 @@ elif (marks >= 33) and (marks < 40):        #if your input mark 39-33
     print("Grade : D")                      #then your grade D
 else:                                       #if your input mark 32 or less
     print(" Grade : F")                     #then your grade F
+ 
