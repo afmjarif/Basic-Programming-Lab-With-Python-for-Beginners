@@ -1,4 +1,4 @@
-
+#code                                                                  #details
 x = int(input("Enter a number: "))                                     # input a number 
 if x < 2:                                                              # Here is the if statement to define the input number is less than 2 or not. Because 0 and 1 is not a prime number. 
     print(x, "is not a prime number.")                                 # If (if) condition is true than print the value and end the program
