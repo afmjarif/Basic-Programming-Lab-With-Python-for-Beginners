@@ -9,3 +9,4 @@ else:                                                                  # otherwi
             break                                                      # break the statement
     else:                                                              # otherwise ......
         print(x, "is a prime number.")                                 # else the number is not divided by (i), than this number is prime.
+ 
