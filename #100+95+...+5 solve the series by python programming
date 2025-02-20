@@ -1,0 +1,8 @@
+i = 100                      #initial value
+s = 0                        #initially result of the sum= zero.
+
+while i >= 5:                #while loop for continue this condition . when the value of is less than or equal 5, than the loop is end.
+    s = s+i                  # sum = sum + i  ; here the sum is continue as par loop cycle .
+    i = i-5                  # i = i-5 ; it's means when one cycle of loop is complete ,than the value of i is decrease 5.
+    
+print("Total sum =",s)       #when the loop was completed
