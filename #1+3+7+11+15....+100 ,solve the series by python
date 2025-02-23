@@ -1,0 +1,8 @@
+lst = [1]                                    # take a list with first term 1
+lst.append(3)                                # add the second term in the list
+for i in range(7, 100, 4):                   # for loop for the others terms taking in the list
+    lst.append(i)                            # here add the terms one by one.
+
+lst.append(100)                              # when the loop is end finally add the last term 100 in the list
+print("Series:", lst)                        # print the list as like a series
+print("Sum of series:", sum(lst))            # print the sum of series.
